@@ -462,13 +462,14 @@ Rich Summary Reports: Detailed analysis of data quality and sources
 
 Install Dependencies:
 
-bashpip install pandas openpyxl requests numpy
+pip install pandas openpyxl requests numpy
 # Optional for enhanced ESM1b predictions:
 pip install torch fair-esm biotite
 
 Run the Pipeline:
 
-pythonpython keggkcatkmprdctr.py
+python enhanced_predictor.py
+
 📊 Output Features:
 
 Proper Reaction IDs: Now uses actual KEGG reaction IDs instead of generic R001, R002
