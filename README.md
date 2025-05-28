@@ -468,7 +468,7 @@ pip install torch fair-esm biotite
 
 Run the Pipeline:
 
-pythonpython enhanced_predictor.py
+pythonpython keggkcatkmprdctr.py
 📊 Output Features:
 
 Proper Reaction IDs: Now uses actual KEGG reaction IDs instead of generic R001, R002
