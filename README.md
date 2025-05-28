@@ -468,7 +468,7 @@ pip install torch fair-esm biotite
 
 Run the Pipeline:
 
-python enhanced_predictor.py
+python keggkcatkmprdctr.py
 
 📊 Output Features:
 
